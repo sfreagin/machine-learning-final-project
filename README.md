@@ -2,7 +2,7 @@
 # Machine Learning final project
 <!-- endhide -->
 
-- Throughout this bootcamp, we have studied different models based on projects of different areas and types. Now it's time to create your own project using the agorithm that you think is best suited to your problem.
+- Throughout this bootcamp, we have studied different models based on projects of different areas and types. Now it's time to create your own project using the algorithm that you think is best suited to your problem.
 - You will have to find a suitable dataset to work with, process it, train a model and finally make it available for consumption.
 
 > “Hard work always beats talent when talent doesn't work hard” - Tim Notke
